@@ -1,1 +1,1 @@
-name = philip kierkegaard
+name = "philip kierkegaard er en kegle"
